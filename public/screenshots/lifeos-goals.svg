@@ -1,0 +1,32 @@
+<svg width="1200" height="800" viewBox="0 0 1200 800" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Life OS goals and planning preview">
+  <rect width="1200" height="800" fill="#f5f0eb"/>
+  <rect x="60" y="60" width="1080" height="680" rx="32" fill="#f9f4f0" stroke="#e5d2c0"/>
+  <rect x="90" y="90" width="240" height="620" rx="26" fill="#1d1b1d"/>
+  <text x="120" y="150" fill="#f6f1ea" font-size="30" font-family="Arial, sans-serif" font-weight="700">Life OS</text>
+  <rect x="120" y="190" width="170" height="42" rx="14" fill="#2a292d"/>
+  <text x="150" y="218" fill="#f6f1ea" font-size="16" font-family="Arial, sans-serif">Today</text>
+  <rect x="120" y="250" width="170" height="42" rx="14" fill="#2a292d"/>
+  <text x="150" y="278" fill="#f6f1ea" font-size="16" font-family="Arial, sans-serif">Goals</text>
+  <rect x="120" y="310" width="170" height="42" rx="14" fill="#2a292d"/>
+  <text x="150" y="338" fill="#f6f1ea" font-size="16" font-family="Arial, sans-serif">Journal</text>
+
+  <rect x="380" y="120" width="620" height="180" rx="26" fill="#f0e4d9" stroke="#e2c7b2"/>
+  <text x="410" y="160" fill="#8a634d" font-size="14" font-family="Arial, sans-serif" letter-spacing="2">ACTIVE ROADMAP</text>
+  <text x="410" y="215" fill="#1d1a1d" font-size="42" font-family="Arial, sans-serif" font-weight="700">Goal to roadmap</text>
+  <text x="410" y="248" fill="#5d473d" font-size="16" font-family="Arial, sans-serif">Build the skills and proof that make the next role possible.</text>
+
+  <rect x="380" y="350" width="620" height="260" rx="26" fill="#ffffff" stroke="#ebddcf"/>
+  <text x="410" y="392" fill="#8b685d" font-size="14" font-family="Arial, sans-serif" letter-spacing="2">CAREER</text>
+  <text x="410" y="452" fill="#1d1a1d" font-size="40" font-family="Arial, sans-serif" font-weight="700">Become a Data Analyst</text>
+  <rect x="410" y="490" width="530" height="18" rx="9" fill="#ebdfd8"/>
+  <rect x="410" y="490" width="230" height="18" rx="9" fill="#d88345"/>
+  <text x="410" y="560" fill="#5f534e" font-size="15" font-family="Arial, sans-serif">1. Foundations</text>
+  <text x="570" y="560" fill="#d88345" font-size="15" font-weight="700" font-family="Arial, sans-serif">2. SQL fluency</text>
+  <text x="760" y="560" fill="#5f534e" font-size="15" font-family="Arial, sans-serif">3. Portfolio</text>
+
+  <rect x="1020" y="130" width="90" height="60" rx="14" fill="#efc7a4"/>
+  <text x="1045" y="170" fill="#1d1a1d" font-size="26" font-family="Arial, sans-serif" font-weight="700">42%</text>
+
+  <rect x="1020" y="560" width="90" height="90" rx="20" fill="#f2eadf"/>
+  <text x="1045" y="610" fill="#1d1a1d" font-size="22" font-family="Arial, sans-serif" font-weight="700">On track</text>
+</svg>
